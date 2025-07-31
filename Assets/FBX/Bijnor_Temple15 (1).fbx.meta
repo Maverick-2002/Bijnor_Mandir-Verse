@@ -3,7 +3,112 @@ guid: 10bcd45dd7dc0184485ce7703a6830e9
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: f5727c2e63188494eb6e4425eaab33c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue
+    second: {fileID: 2100000, guid: 66f5a510d616ab046b5e4ef7cd5c2760, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color
+    second: {fileID: 2100000, guid: 10f0cd5a1a5c9ff4cbaaf703db27056a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flag
+    second: {fileID: 2100000, guid: 88c3ea76ffb23394d98e04810050fc06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gate
+    second: {fileID: 2100000, guid: fcbe2c08809af0c41ba98fa660df1ed7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gate_Alpha
+    second: {fileID: 2100000, guid: 1fdbf7a39b1a68f4c9212134416e1e73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: 75d9889b700222d4cb51af5a89ea37c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green
+    second: {fileID: 2100000, guid: ac7793041ce55964ca9231fe6c631e9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green.001
+    second: {fileID: 2100000, guid: 4d033e6c01d571b44aedecde0252c63c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Maroon
+    second: {fileID: 2100000, guid: b4dfff1802891134797385c608538b69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metall
+    second: {fileID: 2100000, guid: 657545337a60a354ab4dd58ca4c6a126, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: New_White
+    second: {fileID: 2100000, guid: 728f72a69ded73f44839c692be218bd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sculpture
+    second: {fileID: 2100000, guid: 305376d33ab49974f8b24e70a5d60b21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textures
+    second: {fileID: 2100000, guid: c8b6ec84058b1b34cbf1b6bd1e85e47c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textures1
+    second: {fileID: 2100000, guid: 7b308af55435c1b438b2d2793effb871, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textures2
+    second: {fileID: 2100000, guid: 158b6ddb74902964988be2c418cbc0b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Marble
+    second: {fileID: 2100000, guid: ef214280ed5e3a348bd39756932bc4b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water
+    second: {fileID: 2100000, guid: 14ab085a4bbeaba4fa53373a5f43ad1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: c6180816302cc0442b520b4e3e9f7c4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellowish
+    second: {fileID: 2100000, guid: 5c6cbcbf0b606ec4393448b4185dbc3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface5
+    second: {fileID: 2100000, guid: d28ac781887a7f149abcd7f7e8ca7e14, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
