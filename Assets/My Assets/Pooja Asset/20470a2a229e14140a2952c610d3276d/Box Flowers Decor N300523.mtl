@@ -1,0 +1,86 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 6.3 x64 6.3.3.8069
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl Yellow
+Ka 1 1 0.501961
+Kd 1 1 0.501961
+Ks 1 1 1
+illum 2
+Ns 16
+map_Kd lepestok.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Green
+Ka 0 0.501961 0
+Kd 0 0.501961 0
+Ks 1 1 1
+illum 2
+Ns 32
+map_Kd list.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Violet
+Ka 0.25098 0.25098 0.501961
+Kd 0.25098 0.25098 0.501961
+Ks 1 1 1
+illum 2
+Ns 22.6274
+map_Kd lep.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Basket
+Ka 0.929412 0.886275 0.733333
+Kd 0.941177 0.913726 0.819608
+Ks 1 1 1
+illum 2
+Ns 8
+map_Kd PaperDec.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Textile
+Ka 0.501961 0.501961 1
+Kd 0.501961 0.501961 1
+Ks 1 1 1
+illum 2
+Ns 16
+map_Kd PaperDe1.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
