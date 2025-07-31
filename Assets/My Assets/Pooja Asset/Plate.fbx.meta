@@ -3,7 +3,42 @@ guid: f9fa8bb6acf086343966f7c553e60c30
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 12353faf858b23d4c9492d962018e3d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: b28aaa411e91be64dad29210ce5d3764, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: 628848504f4817c49abde652957a7fdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: fca2ffcba13cbd442aaf5c4a6afc50f7, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 71n61KlD8QL._UF894,1000_QL80_
+    second: {fileID: 2800000, guid: 270191710b4adc546834dcea82bc6bfb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rice
+    second: {fileID: 2800000, guid: c47ee9f59de5da24494fdb065a8652b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rolly
+    second: {fileID: 2800000, guid: 29c0fe98afcd2e240a15ed00e0f24a02, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

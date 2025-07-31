@@ -3,7 +3,82 @@ guid: a4dae5745226aa5419b5b75637fc8cbc
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 66c0afca72859864186223ad21807095, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaf_wild
+    second: {fileID: 2100000, guid: 24562e4b8d59d8a42b018bc6944aea59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Petal_flower patch
+    second: {fileID: 2100000, guid: ddcfc9bcdc072b44d952dd97b908442b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Petal_wild
+    second: {fileID: 2100000, guid: d30423b1cb19faf45aa3f05df16871f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stem_flower patch
+    second: {fileID: 2100000, guid: 2b3f0105801867b4c9f8634d525ae04a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stigma_flower patch
+    second: {fileID: 2100000, guid: 7d747229a5c67444b9b7e7319915753b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stigma_wild
+    second: {fileID: 2100000, guid: a20402b66071e2c43b90bc5004b318a3, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 71n61KlD8QL._UF894,1000_QL80_
+    second: {fileID: 2800000, guid: 26283c2b9811a9649a69231319734146, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: grass109
+    second: {fileID: 2800000, guid: a4662284a1d52f743b2ad5bda2436d8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: grass110
+    second: {fileID: 2800000, guid: bf9720b17e8a43e41a24dbe05586eb3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: grass4
+    second: {fileID: 2800000, guid: 62ea103426ef8294eb637e318156ae02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: petal17
+    second: {fileID: 2800000, guid: db4de8606b1496a45b307c1e531c6c7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: petal25
+    second: {fileID: 2800000, guid: 739bc056474b0a148bf95783f102da98, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: petal26
+    second: {fileID: 2800000, guid: 743eb136b09356f448697f27976b1819, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: petal34
+    second: {fileID: 2800000, guid: a20dc1bdc4def1d4da606917b7e594c3, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
